@@ -18,7 +18,7 @@ function App() {
   return (
     <div className="App">
       <div className="freecodecamp-logo-container">
-        <img className="freecodecamp-logo" src="" alt="logo de freeCodeCamp" />
+        <img className="freecodecamp-logo" alt="logo de freeCodeCamp" />
       </div>
       <div className="contenedor-principal">
         <Contador numClics={numClics} />
